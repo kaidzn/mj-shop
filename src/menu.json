@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "category": "Coffee",
+        "name": "Capucino",
+        "image": "./assets/item-img-1.png",
+        "price": "$3.33",
+        "info": "A cappuccino is the perfect balance of espresso, steamed milk and foam. This coffee is all about the structure and the even splitting of all elements into equal thirds. An expertly made cappuccino should be rich, but not acidic and have a mildly sweet flavouring from the milk."
+    },
+    {
+        "id": 2,
+        "category": "Cocktails",
+        "name": "Lemonade Cocktail",
+        "image": "./assets/item-img-12.png",
+        "price": "$2.75",
+        "info": "A Lemonade Cocktail is a beverage consisting of lemon juice, sweetener, and water, sometimes carbonated."
+    },
+    {
+        "id": 3,
+        "category": "Cake",
+        "name": "Wupipai Cake",
+        "image": "./assets/item-img-2.png",
+        "price": "$4.33",
+        "info": "The classic whoopie pie features chocolate cakes with vanilla flavored filling, whereas whoopie pies of modern day can be found in all sorts of flavor combinations; mostly sweet, but even some savory!"
+    },
+    {
+        "id": 4,
+        "category": "Fast food",
+        "name": "Chinese Soup",
+        "image": "./assets/item-img-6.png",
+        "price": "$4.45",
+        "info": "Chinese soup is a fundamental component of Chinese cuisine, encompassing a wide variety of broths, stocks, and concoctions made from meat, vegetables, seafood, herbs, and sometimes medicinal ingredients. These soups often feature a harmonious blend of flavors, textures, and nutritional elements, reflecting the diverse culinary traditions across China's regions."
+    },
+    {
+        "id": 5,
+        "category": "Cocktails",
+        "name": "Coca Cola Cocktail",
+        "image": "./assets/item-img-10.png",
+        "price": "$3.65",
+        "info": "A Coca-Cola cocktail refers to any mixed drink that incorporates Coca-Cola as one of its primary ingredients. Typically, these cocktails combine Coca-Cola with various alcoholic spirits such as rum, whiskey, or vodka, along with other ingredients like citrus juices or flavored syrups."
+    },
+    {
+        "id": 6,
+        "category": "Fast food",
+        "name": "Sandwitch",
+        "image": "./assets/item-img-5.png",
+        "price": "$3.00",
+        "info": "A sandwich is a popular food item consisting of two or more slices of bread, typically with various fillings such as meats, cheeses, vegetables, spreads, or condiments placed between them. The slices of bread serve as the outer layers, holding the fillings together, and can be of different types such as white, wheat, rye, or sourdough. "
+    },
+    {
+        "id": 7,
+        "category": "Snacks",
+        "name": "French Fries",
+        "image": "./assets/item-img-4.png",
+        "price": "$3.35",
+        "info": "French fries, also known as fries or chips in some regions, are a popular side dish or snack made from deep-fried potato slices. Typically, potatoes are cut into elongated strips or wedges, which are then deep-fried until they achieve a crispy and golden exterior while remaining soft and fluffy on the inside. "
+    }
+]
